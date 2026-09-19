@@ -1059,6 +1059,11 @@
   platform: web
   description: Connections for The Binding of Isaac's enormous item pool.
 
+- name: LoLdle
+  url: https://loldle.net/
+  category: video-games
+  platform: web
+  description: League of Legends champion deduction across classic, quote, ability and splash art modes.
 
 - name: LoLdoku
   url: https://www.loldoku.gg/
@@ -1066,12 +1071,6 @@
   platform: web
   description: Fill a League of Legends champion grid, identify champions from attribute clues, or guess their silhouettes.
   tags: [unlimited]
-
-- name: LoLdle
-  url: https://loldle.net/
-  category: video-games
-  platform: web
-  description: League of Legends champion deduction across classic, quote, ability and splash art modes.
 
 - name: Minecraftle
   url: https://minecraftle.zachmanson.com/

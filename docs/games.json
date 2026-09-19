@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 246,
+    "games": 247,
     "categories": 18,
     "reddit": 20
   },
@@ -1697,6 +1697,17 @@
       "platform": "web",
       "description": "League of Legends champion deduction across classic, quote, ability and splash art modes.",
       "tags": []
+    },
+    {
+      "id": "loldoku",
+      "name": "LoLdoku",
+      "url": "https://www.loldoku.gg/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Fill a League of Legends champion grid, identify champions from attribute clues, or guess their silhouettes.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "minecraftle",

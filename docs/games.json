@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 248,
+    "games": 249,
     "categories": 18,
     "reddit": 20
   },
@@ -1049,6 +1049,17 @@
       "platform": "web",
       "description": "A fresh nonogram every day, where the numbers along the edges reveal a picture.",
       "tags": []
+    },
+    {
+      "id": "one-step-late",
+      "name": "One Step Late",
+      "url": "https://arkai.win/games/one-step-late/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Your shadow repeats your previous move one turn late; bring yourself to the sun and it to the moon on the same turn.",
+      "tags": [
+        "open-source"
+      ]
     },
     {
       "id": "one-up-puzzle",

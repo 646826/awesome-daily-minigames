@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **248 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **249 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -173,6 +173,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Murdle](https://murdle.com/) - A daily murder mystery solved with a logic grid — suspect, weapon, location, motive.
 - 🟠 [Ninigrams](https://www.reddit.com/r/ninigrams/) - Nonograms sized for a phone screen and playable without leaving Reddit.
 - [NonoDaily](https://www.nonodaily.com/) - A fresh nonogram every day, where the numbers along the edges reveal a picture.
+- [One Step Late](https://arkai.win/games/one-step-late/) - Your shadow repeats your previous move one turn late; bring yourself to the sun and it to the moon on the same turn.
 - [One Up Puzzle](https://www.oneuppuzzle.com/) - Fill each run of cells with ascending numbers so no row or column repeats.
 - 🟠 [Pigment Pour Daily](https://www.reddit.com/r/PigmentPourDaily/) - A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.

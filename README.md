@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **247 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **248 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -96,6 +96,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Stacks](https://www.theatlantic.com/games/stacks/) - The Atlantic's stacking word game, where each answer feeds the next.
 - [Weaver](https://weavergame.org/) - Classic word ladder — change one letter at a time to get from the start word to the end word.
 - [word.golf](https://word.golf/) - Travel between two words in as few semantic hops as possible.
+- [WordWeb](https://blendletan.github.io/WordWeb/) - Connect the day's words by changing one letter at a time while using as few words as possible.
 
 ## ✏️ Crosswords & Clue Grids
 

@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 247,
+    "games": 248,
     "categories": 18,
     "reddit": 20
   },
@@ -515,6 +515,15 @@
       "category": "word-connections",
       "platform": "web",
       "description": "Travel between two words in as few semantic hops as possible.",
+      "tags": []
+    },
+    {
+      "id": "wordweb",
+      "name": "WordWeb",
+      "url": "https://blendletan.github.io/WordWeb/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Connect the day's words by changing one letter at a time while using as few words as possible.",
       "tags": []
     },
     {
